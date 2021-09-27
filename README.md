@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm a CS student, currently working towards my BSc at Ben Gurion.
+I'm a CS student, currently working towards my MSc at Ben Gurion.
 
 Current projects in progress:
 - this readme...
