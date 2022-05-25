@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I'm a CS student, currently working towards my MSc at Ben Gurion.
+I'm a CS student, currently working towards my MSc at Ben Gurion University of the Negev.
 
 Current projects in progress:
 - this readme...
